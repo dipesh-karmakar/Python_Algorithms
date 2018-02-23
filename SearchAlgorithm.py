@@ -29,8 +29,6 @@ y-fast tries, fusion tree and continue
 #       Input is restricted to integers, individual object based               #
 #       implementation is not in the scope of this document                    #
 #                                                                              #
-# License: Free to copy, distribute and/or modify without any restriction      #
-#                                                                              #
 # Change log:                                                                  #
 # ---------------------------------------------------------------------------- #
 #   Date            Author                      Change Desc                    #
